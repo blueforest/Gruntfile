@@ -1,0 +1,1 @@
+基本となるGruntfile.jsを作る。
