@@ -72,7 +72,7 @@ module.exports = function(grunt) {  // オブジェクトのモジュール化�
 		},
 		// grunt-contrib-watch https://github.com/gruntjs/grunt-contrib-watch
 		// # options
-		// livereload: {true|number} trueかポート番号を指定。trueを指定するとデフォルトポート（35729）。trueを指定するとデフォルトポート（35729）
+		// livereload: {true|number} trueかポート番号を指定。trueを指定するとデフォルトポート（35729）。
 		// # setting
 		// files: {String|Array} 変更を監視するファイル。ファイル指定はfiles format。
 		// tasks: {String|Array} 変更後に実行するタスク
